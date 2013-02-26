@@ -1,0 +1,6 @@
+	I decided to attempt to apply the principles of responsive design to the njit home page www.njit.edu.
+
+        The site's purpose, in my opinion  is to give our university a pretty
+face to lure perspective students and donors, primarily students.
+
+	
